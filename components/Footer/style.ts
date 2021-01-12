@@ -49,6 +49,11 @@ export const SIconList = styled.ul`
   padding: 0;
   text-align: center;
 
+  a svg {
+    width: 1em;
+    height: 1em;
+  }
+
   @media (min-width: 1200px) {
     margin: 0;
   }
@@ -57,11 +62,6 @@ export const SIconList = styled.ul`
 export const SIcon = styled.a`
   margin-right: 22px;
   font-size: 22px;
-
-  svg {
-    width: 1em;
-    height: 1em;
-  }
 
   @media (min-width: 1200px) {
     margin-right: 24px;
