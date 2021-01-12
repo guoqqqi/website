@@ -58,6 +58,11 @@ export const SIcon = styled.a`
   margin-right: 22px;
   font-size: 22px;
 
+  svg {
+    width: 1em;
+    height: 1em;
+  }
+
   @media (min-width: 1200px) {
     margin-right: 24px;
     font-size: 21px;
