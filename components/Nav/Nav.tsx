@@ -30,7 +30,6 @@ const NavComponent: NextPage<Props, any> = ({ t }) => {
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className="mr-auto">
-
           <Nav.Link href="/">{t("homepage")}</Nav.Link>
           <Nav.Link href="/news">{t("common:news")}</Nav.Link>
           <NavDropdown
