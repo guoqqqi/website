@@ -1,6 +1,12 @@
 {
   "zh-CN": [
     {
+      "title": "支流科技与吉利汽车：产业数字化，「智造」未来",
+      "cover": "https://kubernetes-sigs.github.io/service-apis/images/api-model.png",
+      "date": "2020-12-18",
+      "path": "/zh/blog/geely"
+    },
+    {
       "title": "初探 Kubernetes Service API",
       "cover": "https://kubernetes-sigs.github.io/service-apis/images/api-model.png",
       "date": "2020-12-18",
