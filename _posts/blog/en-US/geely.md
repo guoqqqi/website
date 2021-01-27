@@ -6,5 +6,5 @@ date: 2020-12-18
 <!-- Original text has been migrated to Usercase -->
 
 <script>
-window.location.href = "/zh/usercase/geely"
+window.location.href = "/en/usercase/geely"
 </script>
