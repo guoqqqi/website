@@ -2,7 +2,7 @@
   "zh-CN": [
     {
       "title": "支流科技与吉利汽车：产业数字化，「智造」未来",
-      "cover": "https://kubernetes-sigs.github.io/service-apis/images/api-model.png",
+      "cover": "https://static.apiseven.com/logo/geely-1.png",
       "date": "2020-12-18",
       "path": "/zh/blog/geely"
     },
@@ -62,6 +62,12 @@
     }
   ],
   "en-US": [
+    {
+      "title": "Zhiliu Technology and Geely Automobile: Industrial digitalization, [intelligent creation] of the future",
+      "cover": "https://static.apiseven.com/logo/geely-1.png",
+      "date": "2020-12-18",
+      "path": "/en/blog/geely"
+    },
     {
       "title": "A First Look at Kubernetes Service API",
       "cover": "https://kubernetes-sigs.github.io/service-apis/images/api-model.png",
